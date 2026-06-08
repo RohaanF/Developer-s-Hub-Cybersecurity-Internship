@@ -164,7 +164,7 @@
 [2C- Sudoers file(s)[42C [ [1;32mFOUND[0m ]
 [4C- Permissions for directory: /etc/sudoers.d[14C [ [1;32mOK[0m ]
 [4C- Permissions for: /etc/sudoers[26C [ [1;32mOK[0m ]
-[4C- Permissions for: /etc/sudoers.d/00_blazryn[13C [ [1;32mOK[0m ]
+[4C- Permissions for: /etc/sudoers.d/00_rohaan[13C [ [1;32mOK[0m ]
 [2C- PAM password strength tools[30C [ [1;32mOK[0m ]
 [2C- PAM configuration file (pam.conf)[24C [ [1;37mNOT FOUND[0m ]
 [2C- PAM configuration files (pam.d)[26C [ [1;32mFOUND[0m ]
