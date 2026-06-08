@@ -4,4 +4,4 @@ Name: Rohaan Farid
 
 DHC - 9648
 
-This repository contains the work completed the Develop's Hub Cybersecurity Internship focused on learning new ways to protect data - and finding out how it can be harmed too. The project has so far involved identifying common vulnerabilities found within a local host setup, then implementing basic security measures to improve security.
+This repository contains security enhancements applied to OWASP Juice Shop v19.2.1 as part of a cybersecurity internship. Work covers advanced threat detection, ethical hacking, and security auditing across six weeks and a bonus challenge.
